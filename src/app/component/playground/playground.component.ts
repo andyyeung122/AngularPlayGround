@@ -10,6 +10,7 @@ export class PlaygroundComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    console.log('New Main Commit')
   }
 
 }
