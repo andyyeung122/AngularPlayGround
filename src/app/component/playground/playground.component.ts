@@ -11,6 +11,7 @@ export class PlaygroundComponent implements OnInit {
 
   ngOnInit(): void {
     console.log('New Main Commit')
+    console.log('Commit #1')
   }
 
 }
